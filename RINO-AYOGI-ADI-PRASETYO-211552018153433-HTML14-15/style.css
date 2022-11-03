@@ -1,0 +1,77 @@
+html, body 
+{
+  height: 100%;
+  width: 768px;
+  background-color: bisque;
+  margin: auto;
+}
+.main
+{
+  
+}
+.top
+{
+  background-color: cadetblue;
+  padding: 2%;
+}
+.paragraf
+{
+  float: left;
+  width: 450px;
+  padding-top: 2px;
+}
+.paragraf p
+{
+  text-indent: 17px;
+}
+.saya
+{
+  float: right;
+  width: 250px;
+  padding-top: 2px;
+}
+.saya img
+{
+  float: left;
+  padding-right: 8px;
+}
+.saya p
+{
+  font:12px/18px arial
+}
+.saya table
+{
+  font-size: smaller;
+}
+.saya table img
+{
+  width: 35px;
+}
+.perluasan_table
+{
+  width:250px;
+}
+p
+{
+ text-align: justify;
+}
+.link
+{
+  width:768px;
+}
+
+    a:link {
+      color: purple;
+    }
+
+    a:hover {
+      color: blue;
+    }
+
+    a:visited {
+      color: purple;
+    }
+
+    a:active {
+      color: black
+    }
